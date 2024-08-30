@@ -1,0 +1,13 @@
+.RiracList {
+  width: 300px;
+  text-align: center;
+  background-color: beige;
+  padding: 2rem;
+  margin: 1rem;
+  display: inline-block;
+}
+
+.RiracImg {
+  width: 200px;
+  border: 10px;
+}
